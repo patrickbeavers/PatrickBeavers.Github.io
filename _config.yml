@@ -1,8 +1,10 @@
 title: Patrick Beavers # your name (or website title) here
 logo: "images/Beavers Headshot - No Background.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Analyst <br>
+  Data Analyst <br><br>
   Leverage Data to Drive Progress  <br><br>
+  I am a creative problem solver, life long learner, and critical thinker, who is self-motivated and passionate about educating myself and others to achieve goals!<br><br>
+  I have experience with working as a member and leader of a team to organize hundreds of performers to acheive their highest levels of success.<br><br>
   <a href="https://www.linkedin.com/in/patrick-beavers/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
