@@ -14,8 +14,8 @@ Tolulope is the best
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
 ---
-#### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+#### [Analyzing Food Delivery Data Using Excel](https://www.linkedin.com/pulse/analyzing-food-delivery-data-using-excel-patrick-beavers-tci2f%3FtrackingId=Tkf4WcU4S32sbPD%252FhqF8Yg%253D%253D/?trackingId=Tkf4WcU4S32sbPD%2FhqF8Yg%3D%3D)
+[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/analyzing-food-delivery-data-using-excel-patrick-beavers-tci2f%3FtrackingId=Tkf4WcU4S32sbPD%252FhqF8Yg%253D%253D/?trackingId=Tkf4WcU4S32sbPD%2FhqF8Yg%3D%3D)
 My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
 
 
