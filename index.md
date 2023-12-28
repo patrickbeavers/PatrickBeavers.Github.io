@@ -1,8 +1,8 @@
-# Welcome to My Portfolio
+# My Data Analytics Portfolio
 
 ---
 
-### Learn About My Projects
+### My Data Projects
 
 #### [Internal Blog Post Project](/bank)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
