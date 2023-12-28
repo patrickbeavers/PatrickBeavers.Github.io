@@ -15,7 +15,7 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 
 ---
 #### [Analyzing Food Delivery Data Using Excel](https://www.linkedin.com/pulse/analyzing-food-delivery-data-using-excel-patrick-beavers-tci2f%3FtrackingId=Tkf4WcU4S32sbPD%252FhqF8Yg%253D%253D/?trackingId=Tkf4WcU4S32sbPD%2FhqF8Yg%3D%3D)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/analyzing-food-delivery-data-using-excel-patrick-beavers-tci2f%3FtrackingId=Tkf4WcU4S32sbPD%252FhqF8Yg%253D%253D/?trackingId=Tkf4WcU4S32sbPD%2FhqF8Yg%3D%3D)
+[<img src="images/iFood Excel Project Image.png"/>](https://www.linkedin.com/pulse/analyzing-food-delivery-data-using-excel-patrick-beavers-tci2f%3FtrackingId=Tkf4WcU4S32sbPD%252FhqF8Yg%253D%253D/?trackingId=Tkf4WcU4S32sbPD%2FhqF8Yg%3D%3D)
 My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
 
 
