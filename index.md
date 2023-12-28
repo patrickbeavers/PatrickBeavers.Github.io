@@ -22,9 +22,10 @@ In this project, I utilized Microsoft Excel to clean, analyze, and visualize foo
 ---
 #### [Massachusetts Department of Education Overview](https://www.linkedin.com/posts/patrick-beavers_mass-doe-education-tableau-dashboard-activity-7145871741741858816-2-ap?utm_source=share&utm_medium=member_desktop)
 [<img src="images/MASS DOE Project Cover Photo.png"/>](https://www.linkedin.com/posts/patrick-beavers_mass-doe-education-tableau-dashboard-activity-7145871741741858816-2-ap?utm_source=share&utm_medium=member_desktop)
-For this project, I was prompted to analyze the State of Massachusetts' education data. The main focuses were:
-What high schools are struggling the most?
-How does class size affect graduation rate?
+For this project, I was prompted to analyze the State of Massachusetts' education data. I used Tableau Public to create the visualizations. <br><br>
+The main focuses were:<br>
+What high schools are struggling the most?<br>
+How does class size affect graduation rate?<br>
 What are the top schools for 4th grade math in the state? 
 
 ---
