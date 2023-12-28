@@ -20,8 +20,8 @@ In this project, I utilized Microsoft Excel to clean, analyze, and visualize foo
 
 
 ---
-#### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+#### [Massachusetts Department of Education Overview](https://www.linkedin.com/posts/patrick-beavers_mass-doe-education-tableau-dashboard-activity-7145871741741858816-2-ap?utm_source=share&utm_medium=member_desktop)
+[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/posts/patrick-beavers_mass-doe-education-tableau-dashboard-activity-7145871741741858816-2-ap?utm_source=share&utm_medium=member_desktop)
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
 How does class size affect college admission?
