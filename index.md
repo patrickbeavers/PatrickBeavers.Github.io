@@ -1,4 +1,4 @@
-[<img src="images/iFood Excel Project Image.png"/>]
+<img src="images/Beavers Portfolio Image.png"/>
 
 # My Data Analytics Portfolio
 
