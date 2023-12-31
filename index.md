@@ -1,6 +1,5 @@
-<img src="images/Beavers Portfolio Image.png"/>
-
 # My Data Analytics Portfolio
+<img src="images/Beavers Portfolio Image.png"/>
 
 ---
 ### [Analyzing Food Delivery Data Using Excel](https://www.linkedin.com/pulse/analyzing-food-delivery-data-using-excel-patrick-beavers-tci2f/)
