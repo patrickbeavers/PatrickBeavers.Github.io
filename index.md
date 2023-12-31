@@ -1,3 +1,5 @@
+[<img src="images/iFood Excel Project Image.png"/>]
+
 # My Data Analytics Portfolio
 
 ---
